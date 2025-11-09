@@ -1,8 +1,4 @@
-Tugas Enkapsulasi - Pemrograman Berorientasi Objek (PBO)
-Identitas
-
-Nama: Atikah Dhiya
-NIM: L0324007
+Tugas Enkapsulasi
 
 Deskripsi
 Tugas ini berisi latihan penerapan konsep enkapsulasi dalam pemrograman berorientasi objek (OOP) menggunakan bahasa Java.
